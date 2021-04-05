@@ -11,27 +11,20 @@ Urban
 Suburban
 Rural
 ```
-### We calculate total daily volume and yearly return for these 12 stocks on 2017 and 2018 based. Total daily volume can reveal how actively the stocks was traded and the yearly return shows the percentage increase or decrease in price from the beginning of the year to the end of the year.
 
-![Comparison_Chart](https://github.com/reza-ya57/Stock-analysis/blob/main/Resources/Performanc_Stock_Comparison.png)
-
-- By comparing 2017 and 2018 data analysis we can make below conclusion:
-  - By looking at yearly return percentage we can say 2017 has better performance than 2018. In 2017 only one of the stock has negative return and the others have positive outcome. 
-  - Based on 2018 result two stocks have a better performance and could be a candidate for investing, ENPH and RUN
-### By refactoring the code we achieved a significant improvement in excecution times. You can see the executiontime of original code and refactored script below:
+![Original_Excecution_Time](https://github.com/reza-ya57/PyBer_Analysis/tree/main/Analysis/PyBer_fare_summary.png)
 
 
-![Refactor_Excecution_Time](https://github.com/reza-ya57/Stock-analysis/blob/main/Resources/Excecutive_time_2017_Refactor.png)
+### Based on the above chart we can say:
+1- Urban cities have the most ride-sharing amount among the Suburban and Rural cities.
+2- The lowest ride-sharing amount belongs to Rural cities.
+3- Peak of ride -sharing time in urban cities is on March.
+
 
 ## Summary
-- Advantages of refactoring code
-  - Have compact code
-  - Reduce memory usage
-  - Decrease required storage
+- below three points need to consider in order to improve the efficiency of the service:
+  - Need to reallocate the resouces in peak time for urban cities to be able for getting more ride request
+  - Hiring seasonal employees as driver for peak time in urban cities
+  - In suburban cities define some promotional program for January and Mid of March which are the lowest demand time of the year to get more service request. 
 
-- Disadvantages of refactoring code
-  - Increase complexity of the code
-  - Take more time 
 
-#### To refactor the original code in this project we eliminate nonessential loop and used single loop for the whole process. This change caused more complexity to find the solution to run the script with one loop. In other hand by using this method the script line decreased and also the execution time improved. 
-#### In summary refactoring is required for high performance script regarding to run the code in large data so we can have a significant improvement by reduce the memory usage and increase the execution time. 
