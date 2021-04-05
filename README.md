@@ -6,7 +6,7 @@
 ### In below chart you can see the time trend of total fares for below city types: Urban, Suburban and Rural cities.
 
 
-```
+
 Urban
        
 ```
