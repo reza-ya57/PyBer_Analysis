@@ -12,7 +12,7 @@ Suburban
 Rural
 ```
 
-![Original_Excecution_Time](https://github.com/reza-ya57/PyBer_Analysis/tree/main/Analysis/PyBer_fare_summary.png)
+![Original_Excecution_Time](https://github.com/reza-ya57/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
 ### Based on the above chart we can say:
