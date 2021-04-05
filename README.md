@@ -22,7 +22,7 @@ Rural
 
 
 ## Summary
-- below three points need to consider in order to improve the efficiency of the service:
+- Consider the below three points in order to improve the efficiency of the ride-sharing service:
   - Need to reallocate the resouces in peak time for urban cities to be able for getting more ride request
   - Hiring seasonal employees as driver for peak time in urban cities
   - In suburban cities define some promotional program for January and Mid of March which are the lowest demand time of the year to get more service request. 
