@@ -16,9 +16,9 @@ Rural
 
 
 ### Based on the above chart we can say:
-1- Urban cities have the most ride-sharing amount among the Suburban and Rural cities.
-2- The lowest ride-sharing amount belongs to Rural cities.
-3- Peak of ride -sharing time in urban cities is on March.
+- Urban cities have the most ride-sharing amount among the Suburban and Rural cities.
+- The lowest ride-sharing amount belongs to Rural cities.
+- Peak of ride -sharing time in urban cities is on March.
 
 
 ## Summary
