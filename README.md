@@ -6,13 +6,9 @@
 ### In below chart you can see the time trend of total fares for below city types: Urban, Suburban and Rural cities.
 
 
-
-Urban
-       
 ```
+Urban  
 Suburban
-
-``` 
 Rural
 ```
 ### We calculate total daily volume and yearly return for these 12 stocks on 2017 and 2018 based. Total daily volume can reveal how actively the stocks was traded and the yearly return shows the percentage increase or decrease in price from the beginning of the year to the end of the year.
